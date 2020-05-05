@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const URI = 'mongodb+srv://sheikah:kira1990@cluster0-nmdpi.mongodb.net/test?retryWrites=true&w=majority';
+const URI = 'mongodb+srv://sheikah:kira1990@planilla-p9h73.mongodb.net/test?retryWrites=true&w=majority';
 
 //Realizando la conexión con la BD
 mongoose.connect(URI)
